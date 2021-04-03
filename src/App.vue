@@ -1,28 +1,59 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <SectionTop/>
+    <SectionAbout/>
+    <SectionFeaturedWork/>
+    <SectionWorks/>
+    <SectionCopyright/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import '@/assets/ress.css'
+
+import SectionTop from "@/components/SectionTop";
+import SectionAbout from "@/components/SectionAbout";
+import SectionFeaturedWork from "@/components/SectionFeaturedWork"
+import SectionWorks from "@/components/SectionWorks";
+import SectionCopyright from "@/components/SectionCopyright";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    SectionTop,
+    SectionAbout,
+    SectionFeaturedWork,
+    SectionWorks,
+    SectionCopyright
   }
 }
 </script>
 
 <style>
 #app {
+  max-width: 800px;
+  margin: 0 5vw;
+
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #222324;
 }
+
+a {
+  color: #222324;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 40%;
+}
+
+a:visited {
+  color: #222324;
+}
+
+* {
+  word-wrap: break-word;
+  overflow-wrap : break-word;
+}
+
 </style>
