@@ -1,24 +1,3 @@
 # 73ch-web
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The source code of my portfolio website. Please check it out!
+[https://www.73ch.work/](https://www.73ch.work/)
