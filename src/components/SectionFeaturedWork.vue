@@ -9,6 +9,8 @@
           image="thumbnails/thumbnail_digicon.png"/>
       <element-featured-work title="TParty / シブキ (2021)" url="https://www.youtube.com/watch?v=tRubYTfBBGc"
           image="thumbnails/thumbnail_shibuki.png"/>
+      <element-featured-work title="Kosaku Namikawa / presence (2021)" url="https://confusion-sense-3df.notion.site/ENDLESS-IMAGINARY-bef67a2477274bc687c0e98f069b2cfd"
+          image="thumbnails/thumbnail_endless.png"/>
       <element-featured-work title="Kosaku Namikawa & Rensho Takahashi / Juggling Movie (2021)"
           url="https://www.youtube.com/watch?v=yDQJPHuUc6Q" image="thumbnails/thumbnail_juggling.png"/>
       <element-featured-work title="TParty / invisible (2021)" url="https://www.youtube.com/watch?v=-ih5usyWJW4"
