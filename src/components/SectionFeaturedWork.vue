@@ -1,12 +1,19 @@
 <template>
   <BaseSection title="Featured Work">
-    <iframe class="embedded" width="560" height="315" src="https://www.youtube.com/embed/OuAM-EueCBM"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yDQJPHuUc6Q" title="YouTube video player"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+    <div class="embed-container">
+      <iframe width="400" height="225" src="https://www.youtube.com/embed/tRubYTfBBGc" title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      <iframe class="embedded" width="400" height="225" src="https://www.youtube.com/embed/OuAM-EueCBM"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      <iframe width="400" height="225" src="https://www.youtube.com/embed/yDQJPHuUc6Q" title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+    </div>
   </BaseSection>
 </template>
 
@@ -20,7 +27,12 @@ export default {
 </script>
 
 <style scoped>
-.embedded {
-  width: 100%;
+.embed-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.embed-container iframe {
+  margin: 20px;
 }
 </style>
