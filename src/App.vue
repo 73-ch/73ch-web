@@ -31,7 +31,7 @@ export default {
 
 <style>
 #app {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0 5vw;
 
   font-family: Avenir, Helvetica, Arial, sans-serif;
