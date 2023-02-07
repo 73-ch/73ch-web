@@ -27,8 +27,13 @@
       <a class="project-link" href="https://digitalnature.slis.tsukuba.ac.jp/2021/08/vocal_feedback/">Project Page</a>
     </p>
     <p>
-      Masaaki Sadasue, Ippei Suzuki, <u>Kosaku Namikawa</u>, Kengo Tanaka, Chieko Nishimura, Masaki Okamura, and Yoichi Ochiai. (2022). Development and Evaluation of Systems to Enjoy a Wedding Reception for People with Low Vision. In: Stephanidis, C., Antona, M., Ntoa, S. (eds) HCI International 2022 Posters. HCII 2022. Communications in Computer and Information Science, vol 1580. Springer, Cham.
+      Masaaki Sadasue, Ippei Suzuki,
+      <u>Kosaku Namikawa</u>, Kengo Tanaka, Chieko Nishimura, Masaki Okamura, and Yoichi Ochiai. (2022). Development and Evaluation of Systems to Enjoy a Wedding Reception for People with Low Vision. In: Stephanidis, C., Antona, M., Ntoa, S. (eds) HCI International 2022 Posters. HCII 2022. Communications in Computer and Information Science, vol 1580. Springer, Cham.
       <a href="https://doi.org/10.1007/978-3-031-06417-3_79">https://doi.org/10.1007/978-3-031-06417-3_79</a>
+    </p>
+    <p>
+      Kana YAMAGUCHI,
+      <u>Kosaku NAMIKAWA</u>, Yoshiki NAGATANI, and Yoichi OCHIAI. 2022. Impression of the sound of rain hitting umbrellas. Proceedings of the 24th International Congress on Acoustics (October 2022), ABS-0569-.
     </p>
   </div>
 </template>
