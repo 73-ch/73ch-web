@@ -44,7 +44,7 @@ export default {
       });
 
       this.headers = csvData[0].map(d => md.render(d));
-      this.records = csvData.slice(1).map(row => row.map(d => md.render(d)));
+      this.records = csvData.slice(1).map(row => row.map(d => md.render(d))).reverse();
     });
   }
 }
