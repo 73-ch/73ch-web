@@ -2,7 +2,7 @@
   <BaseSection title="Featured Works">
     <div class="embed-container">
       <element-featured-work title="Kosaku Namikawa / frame chain (2023)" url="https://frame-chain.73ch.work/"
-                             image="thumbnails/thumbnail_frame-chain2.png"/>
+                             image="thumbnails/thumbnail_frame-chain.png"/>
       <element-featured-work title="Kosaku Namikawa / scrolling (2022)" url="https://scrolling.73ch.work/"
           image="thumbnails/thumbnail_scrolling.png"/>
       <element-featured-work title="Kosaku Namikawa & Yuta Okuyama / trajectory (2022)"
