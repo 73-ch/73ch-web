@@ -6,7 +6,7 @@
       <element-featured-work title="Kosaku Namikawa / scrolling (2022)" url="https://scrolling.73ch.work/"
           image="thumbnails/thumbnail_scrolling.png"/>
       <element-featured-work title="Kosaku Namikawa & Yuta Okuyama / trajectory (2022)"
-          url="https://73ch.notion.site/trajectory-6e2c0a04ab4d4e68b9b1276468053814  " image="thumbnails/thumbnail_trajectory.png"/>
+          url="https://73ch.notion.site/trajectory-6e2c0a04ab4d4e68b9b1276468053814" image="thumbnails/thumbnail_trajectory.png"/>
       <element-featured-work title="Beyond Internet (2022)" url="https://73ch.notion.site/2021-Beyond-Internet-42c02cb24de6490396bdadc9d628a1d7"
           image="thumbnails/thumbnail_digicon.png"/>
       <element-featured-work title="TParty / シブキ (2021)" url="https://www.youtube.com/watch?v=tRubYTfBBGc"
