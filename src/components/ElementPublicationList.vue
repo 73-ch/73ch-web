@@ -35,6 +35,9 @@
       Kana YAMAGUCHI,
       <u>Kosaku NAMIKAWA</u>, Yoshiki NAGATANI, and Yoichi OCHIAI. 2022. Impression of the sound of rain hitting umbrellas. Proceedings of the 24th International Congress on Acoustics (October 2022), ABS-0569-.
     </p>
+    <p>
+      <u>浪川洪作</u>, 木村成伴. 2024. QUICによるフレームの重要度に応じてデータグラムとストリームを併用した映像伝送方式. 情報処理学会第86回全国大会.
+    </p>
   </div>
 </template>
 
